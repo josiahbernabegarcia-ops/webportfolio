@@ -1,0 +1,120 @@
+
+nav {
+	font-family: Poppins;
+	font-weight: 600;
+	font-style: Medium;
+	font-size: 18px;
+	line-height: 100%;
+	letter-spacing: 10%;
+	background: #4e8397;
+	position: fixed;
+}
+
+
+body {
+	background: #222831 !important;
+}
+
+
+#dev-name {
+	font-family: Poppins;
+	text-align: center;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 60px;
+	color: #EEEEEE;
+
+}
+
+#dev-title {
+	font-family: Poppins;
+	text-align: center;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 33px;
+	color: #EEEEEE;
+}
+
+#dev-info {
+	font-family: monospace;
+	text-align: justify;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 20px;
+	color: #EEEEEE;
+}
+
+#dev-img {
+	border: solid cadetblue;
+	border-radius: 250vh;
+	height: 500px;
+	width: 500px;
+}
+.btn {
+	font-family: Poppins;
+	font-weight: 600;
+	color: #EEEEEE;
+}
+
+#my-projects {
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 20px;
+
+}
+
+
+.card-img-top {
+	height: 200px;           
+	object-fit: cover;       
+}
+
+
+.card-title {
+	margin-bottom: .25rem;
+}
+
+
+
+#project-title {
+	font-family: Poppins;
+	color: white;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 50px;
+}
+
+
+#dev-tools {
+	font-family: Poppins;
+	color: #EEEEEE;
+	font-style: normal;
+	font-weight: 600;
+}
+
+#text-tools {
+	font-family: Poppins;
+	color: #EEEEEE;
+	text-align: center;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 50px;
+}
+
+#dev-contact {
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 12px;
+	color: navy;
+}
+
+footer {
+	font-family: Poppins;
+	font-style: white;	
+	font-weight: 600;
+	font-size: 12px;
+	color: navy;
+}
+
